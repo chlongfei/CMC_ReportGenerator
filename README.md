@@ -18,8 +18,8 @@ Generates reports from coinmarketcap.com via CMC API and spits into .xslx
 # Installation
 1. Ensure all dependencies listed above are installed
 2. Obtain Free API key from https://coinmarketcap.com/api/
-3. Enter API key into .env
-4. Ready to run!
+3. Enter API key into `.env`
+4. Ready to run by running `python main.py`
 
 ---
 **Disclaimer:**
